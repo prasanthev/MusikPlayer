@@ -1,3 +1,3 @@
 # MusikPlayer
-Android Music PLayer
+Android Music Player
 
